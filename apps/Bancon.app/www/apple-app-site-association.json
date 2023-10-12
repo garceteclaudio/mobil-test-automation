@@ -1,0 +1,14 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "82KVP35259.com.technisys.bancor.dev",
+        "paths": [
+          "/modo/*",
+          "*/vufraud/*"
+        ]
+      }
+    ]
+  }
+}
