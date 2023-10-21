@@ -1,3 +1,0 @@
-(this["webpackJsonp@app/bancon"]=this["webpackJsonp@app/bancon"]||[]).push([[266],{463:function(p,n,o){p.exports={NAME_DESKTOP:"Desktop",TYPE_DESKTOP:"Section"}}}]);
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbIndlYnBhY2s6Ly8vLi9zcmMvcGFnZXMvSG9tZS9faW5kZXguc2NzcyJdLCJuYW1lcyI6WyJtb2R1bGUiLCJleHBvcnRzIl0sIm1hcHBpbmdzIjoidUdBQ0FBLEVBQU9DLFFBQVUsQ0FBQyxhQUFlLFVBQVUsYUFBZSxVIiwiZmlsZSI6InN0YXRpYy9qcy8yNjYuNjg5ZGQ1MzcuY2h1bmsuanMiLCJzb3VyY2VzQ29udGVudCI6WyIvLyBleHRyYWN0ZWQgYnkgbWluaS1jc3MtZXh0cmFjdC1wbHVnaW5cbm1vZHVsZS5leHBvcnRzID0ge1wiTkFNRV9ERVNLVE9QXCI6XCJEZXNrdG9wXCIsXCJUWVBFX0RFU0tUT1BcIjpcIlNlY3Rpb25cIn07Il0sInNvdXJjZVJvb3QiOiIifQ==
-//# sourceMappingURL=266.689dd537.chunk.js.map

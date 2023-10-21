@@ -1,3 +1,0 @@
-(this["webpackJsonp@app/bancon"]=this["webpackJsonp@app/bancon"]||[]).push([[1],{558:function(n,a,c){"use strict";c.d(a,"a",(function(){return o}));var t;c(91);!function(n){n.Pop="POP",n.Push="PUSH",n.Replace="REPLACE"}(t||(t={}));function o(n){var a=n.pathname,c=void 0===a?"/":a,t=n.search,o=void 0===t?"":t,p=n.hash,h=void 0===p?"":p;return o&&"?"!==o&&(c+="?"===o.charAt(0)?o:"?"+o),h&&"#"!==h&&(c+="#"===h.charAt(0)?h:"#"+h),c}}}]);
-//# sourceMappingURL=data:application/json;charset=utf-8;base64,eyJ2ZXJzaW9uIjozLCJzb3VyY2VzIjpbXSwibmFtZXMiOltdLCJtYXBwaW5ncyI6IiIsImZpbGUiOiJzdGF0aWMvanMvMS5lYzk4OTVhMC5jaHVuay5qcyIsInNvdXJjZVJvb3QiOiIifQ==
-//# sourceMappingURL=1.ec9895a0.chunk.js.map
