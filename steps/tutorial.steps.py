@@ -2,10 +2,12 @@ from behave import *
 
 @given('we have behave installed')
 def step_impl(context):
+    print("First step !!!!")
     pass
 
 @when('we implement a test')
 def step_impl(context):
+    print("Second step !!!!")
     assert True is not False
 
 @then('behave will test it for us!')
